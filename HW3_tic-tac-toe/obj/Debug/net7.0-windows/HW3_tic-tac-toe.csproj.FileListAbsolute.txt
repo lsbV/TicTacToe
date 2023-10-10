@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\bin\Debug\net7.0-windows\HW3_tic-tac-toe.exe
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\bin\Debug\net7.0-windows\HW3_tic-tac-toe.deps.json
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\bin\Debug\net7.0-windows\HW3_tic-tac-toe.runtimeconfig.json
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\bin\Debug\net7.0-windows\HW3_tic-tac-toe.dll
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\bin\Debug\net7.0-windows\HW3_tic-tac-toe.pdb
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic_tac_toe.Form1.resources
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic-tac-toe.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic-tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic-tac-toe.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic-tac-toe.AssemblyInfo.cs
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic-tac-toe.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic-tac-toe.dll
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\refint\HW3_tic-tac-toe.dll
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic-tac-toe.pdb
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\HW3_tic-tac-toe.genruntimeconfig.cache
+C:\Users\victo\source\repos\HW_NetProg\HW3_tic-tac-toe\obj\Debug\net7.0-windows\ref\HW3_tic-tac-toe.dll
